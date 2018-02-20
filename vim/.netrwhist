@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/windows/D/Linux/softwares/opencv-3.1.0_opencl/OCV_SDK/samples/android/tutorial-4-opencl/CMakeFiles'
+let g:netrw_dirhist_2='/windows/D/Linux/softwares/opencv-3.1.0_opencl/opencv-master/platforms/scripts'
+let g:netrw_dirhist_3='/windows/D/Linux/softwares/opencv-3.1.0_opencl/opencv-master'
+let g:netrw_dirhist_4='/etc/apt/sources.list.d'
+let g:netrw_dirhist_5='/windows/D/Linux/softwares/build-opencv-for-android-master/android_opencv'
+let g:netrw_dirhist_6='/windows/D/Linux/softwares/boofcv/demonstrations'
+let g:netrw_dirhist_7='/windows/D/Linux/softwares/boofcv/demonstrations/src'
+let g:netrw_dirhist_8='/windows/D/Linux/softwares/boofcv/demonstrations'
+let g:netrw_dirhist_9='/home/omair/sketchbook/libraries/ros_lib'
